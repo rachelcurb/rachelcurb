@@ -1,4 +1,4 @@
-# Hi, I'm Rachel! 👋
+# Hi, I'm Rachel! :wave:
 
 I am a recent Master's graduate of Health Informatics at Arizona State University with a background in the healthcare industry in revenue cycle management.
 
@@ -9,7 +9,7 @@ I am a recent Master's graduate of Health Informatics at Arizona State Universit
 * Data Visualization
 * Dashboard design and presentation
 
-**🌱 I'm currently learning and fine-tuning my skills in:**
+**🌱 I'm currently learning and fine-tuning my skills and knowledge of:**
 
 * SQL
 * PowerBI
